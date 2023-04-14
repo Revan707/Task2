@@ -1,0 +1,14 @@
+table,th, td {
+    border-collapse: collapse;
+border-style: dotted;
+padding: 6px 50px;
+}
+.blue{
+    background-color: lightseagreen;
+}
+
+tr{
+   font-size: 20px;
+}
+
+       
